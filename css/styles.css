@@ -1,0 +1,77 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e0f7fa; /* Azul claro, como o mar */
+    color: #005662; /* Verde escuro, como algas */
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    color: #00796b; /* Verde mais intenso */
+    margin-top: 30px;
+  }
+  
+  
+  p {
+    line-height: 1.6;
+    font-size: 1.1em;
+    margin: 10px 0;
+  }
+  
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+ 
+  video {
+    width:65%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #ffffff; /* Fundo branco para destaque */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+ 
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #00695c; /* Tom mais claro de verde */
+  }
+  
+
+  a {
+    color: #00796b; /* Verde mais intenso */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  #Logo{
+    float: right; 
+    margin-left: 100px; 
+  }
+  
+  
+  
